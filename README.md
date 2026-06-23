@@ -49,7 +49,9 @@ GEMINI_API_KEY=your_new_gemini_api_key
 TMDB_READ_ACCESS_TOKEN=your_tmdb_api_read_access_token
 ```
 
-Create the Gemini key in [Google AI Studio](https://aistudio.google.com/app/apikey). Keep it only in `.env`; that file is excluded from Git. If a key has ever been pasted into chat, a ticket, or a commit, revoke it and create a replacement before using the bot.
+KEEP ALL API KEYS PRIVATE.
+
+Create the Gemini key in [Google AI Studio](https://aistudio.google.com/app/apikey).
 
 `GEMINI_MODEL` defaults to `gemini-2.5-flash`. It is configurable because model availability can vary by account and change over time. Set it to a compatible model available in your Gemini API project if needed.
 
