@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:letterboxd="https://letterboxd.com" xmlns:tmdb="https://themoviedb.org">
+  <channel>
+    <title>Letterboxd - Example</title>
+    <item>
+      <title>Perfect Days, 2023 - ★★★★½</title>
+      <link>https://letterboxd.com/example/film/perfect-days-2023/</link>
+      <guid isPermaLink="false">letterboxd-watch-100</guid>
+      <pubDate>Mon, 22 Jun 2026 18:30:00 +0000</pubDate>
+      <letterboxd:watchedDate>2026-06-22</letterboxd:watchedDate>
+      <letterboxd:filmTitle>Perfect Days</letterboxd:filmTitle>
+      <letterboxd:filmYear>2023</letterboxd:filmYear>
+      <letterboxd:memberRating>4.5</letterboxd:memberRating>
+      <tmdb:movieId>976893</tmdb:movieId>
+    </item>
+    <item>
+      <title>A Fine Movie, 2020 - ★★★</title>
+      <link>https://letterboxd.com/example/film/a-fine-movie/</link>
+      <guid isPermaLink="false">letterboxd-watch-99</guid>
+      <letterboxd:watchedDate>2026-06-21</letterboxd:watchedDate>
+      <letterboxd:filmTitle>A Fine Movie</letterboxd:filmTitle>
+      <letterboxd:filmYear>2020</letterboxd:filmYear>
+      <letterboxd:memberRating>3.0</letterboxd:memberRating>
+      <tmdb:movieId>12345</tmdb:movieId>
+    </item>
+    <item>
+      <title>Disaster Movie, 2008 - ½</title>
+      <link>https://letterboxd.com/example/film/disaster-movie/</link>
+      <guid isPermaLink="false">letterboxd-watch-98</guid>
+      <letterboxd:filmTitle>Disaster Movie</letterboxd:filmTitle>
+      <letterboxd:filmYear>2008</letterboxd:filmYear>
+      <letterboxd:memberRating>0.5</letterboxd:memberRating>
+      <tmdb:movieId>13805</tmdb:movieId>
+    </item>
+    <item>
+      <title>A list with no rating</title>
+      <link>https://letterboxd.com/example/list/a-list/</link>
+      <guid isPermaLink="false">letterboxd-list-97</guid>
+    </item>
+  </channel>
+</rss>
